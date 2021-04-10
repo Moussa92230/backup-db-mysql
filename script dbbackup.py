@@ -1,3 +1,7 @@
+#Nom: COULIBALY Moussa
+#Copyrith:
+#Fin du script: 10/04/2021
+
 # Importation des bibliothèques de Python 
 import os #module permettant de manipuler les chmins de fichier
 import time #module de l'heure
